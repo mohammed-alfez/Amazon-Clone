@@ -1,6 +1,7 @@
 # Amazon-Clone
 <br>
 Author-Mohammed Alfez
+<br>
 This is a replica of amazon website.
 <br>
 Hello,
